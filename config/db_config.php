@@ -2,7 +2,7 @@
 
 $dbhost = 'localhost:3306';
 $dbuser = 'root';
-$dbpass = 'netwerken2024!';
+$dbpass = '';
 $dbname = 'net24udemirez_netwerken_2024';
 
 $conn = new mysqli($dbhost,$dbuser,$dbpass,$dbname);
