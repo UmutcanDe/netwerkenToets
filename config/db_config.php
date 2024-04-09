@@ -1,7 +1,7 @@
 <?php
 
 $dbhost = 'localhost:3306';
-$dbuser = 'netwerken_user_2024';
+$dbuser = 'net24udemirez_netwerken_user_2024';
 $dbpass = 'netwerken2024!';
 $dbname = 'net24udemirez_netwerken_2024';
 
